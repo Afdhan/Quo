@@ -1,6 +1,3 @@
-# SGDC-BOT@^1.5.1
-
-SIMPLE WHATSAPP BOT GRETONGERS
 
  JOIN
 [`WhatsApp`](https://chat.whatsapp.com/JTqD3cJLmrlJPfxYZMtju8)
@@ -21,4 +18,3 @@ Donate
 [`Saweria`](https://saweria.co/AFD11)
 [`Nyawer`](https://nyawer.co/SGDC)
 
-Original Script [`Klik Disini`](https://github.com/Nurutomo/wabot-aq)
