@@ -54,10 +54,10 @@ jQuery(document).ready(function($) {
             }
             break;
         }
-        i.next('.validation').html((ierror ? (i.attr('data-msg') !== undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+  //      i.next('.validation').html((ierror ? (i.attr('data-msg') !== undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
       }
     });
-    f.children('textarea').each(function() { // run all inputs
+  /*  f.children('textarea').each(function() { // run all inputs
 
       var i = $(this); // current input
       var rule = i.attr('data-rule');
@@ -113,6 +113,6 @@ jQuery(document).ready(function($) {
       }
     });
     return false;
-  });
+  });*/
 
 });
